@@ -1,0 +1,44 @@
+
+<svg width="305px" height="181px" viewBox="0 0 305 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Skyscraper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="skyscraper" transform="translate(-47.000000, -109.000000)">
+            <polygon id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="82.3516882 164 73 288 122 288 110.07467 164"></polygon>
+            <polyline id="Path-4" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="87 157 96 150 105 157"></polyline>
+            <path d="M97.5,165.313695 L97.5,140" id="Path-5" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Path-2" stroke="#FFFFFF" fill="#FFFFFF" stroke-linejoin="round" points="87 157 105 157 105 164 87 164"></polygon>
+            <path d="M84,164 L99,288" id="Path-3" stroke="#FFFFFF"></path>
+            <path d="M99,288 L109,164" id="Path-6" stroke="#FFFFFF"></path>
+            <polygon id="Path-7" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="142 212 142 221 188 221 188 212"></polygon>
+            <polyline id="Path-8" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="142.848269 221 140 221 142.848269 224 187.015577 224 191 221 187.015577 221"></polyline>
+            <polyline id="Path-9" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="142 224 142 232 188 232 188 224"></polyline>
+            <polyline id="Path-10" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="142 232 142 236 188 236 188 232"></polyline>
+            <path d="M142,236 L142,288 L155.868249,288 L155.868249,254.91919 C157.685221,250.362069 160.395804,248.083509 164,248.083509" id="Path-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M163,236 L163,288 L178.759374,288 L178.759374,254.91919 C180.824114,250.362069 183.904323,248.083509 188,248.083509" id="Path-11" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(175.500000, 262.000000) scale(-1, 1) translate(-175.500000, -262.000000) "></path>
+            <polyline id="Path-12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="140.229182 212 135 208 195 208 188.113064 212"></polyline>
+            <path d="M142,253.5 L155,253.5" id="Path-13" stroke="#FFFFFF"></path>
+            <path d="M172,253.5 L188,253.5" id="Path-14" stroke="#FFFFFF"></path>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="200 268 200 286 209 286"></polyline>
+            <path d="M214,281 C215.308693,281.139298 216.308693,282.805965 217,286" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M217,286 L236.163298,286 C237.140217,282.666667 239.419118,281 243,281" id="Path-17" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M243,281 C244.821881,281.073046 246.155214,282.739712 247,286" id="Path-18" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-19" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="200 269.203878 212.771514 269.203878 220.015676 263 233.700067 263 240.445841 269.203878 254 269.203878 254 286 248.219697 286"></polyline>
+            <ellipse id="Oval" fill="#FFFFFF" cx="213" cy="287" rx="3" ry="2"></ellipse>
+            <ellipse id="Oval" fill="#FFFFFF" cx="241.5" cy="287" rx="2.5" ry="2"></ellipse>
+            <path d="M200,274.5 L254,274.5" id="Path-20" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" fill="#FFFFFF" cx="221.5" cy="268" rx="2.5" ry="3"></ellipse>
+            <path d="M209,286 C210.039688,282.660363 211.706355,280.993714 214,281.000054" id="Path-15" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(314.000000, 199.000000) scale(-1, 1) translate(-314.000000, -199.000000) " points="329 110 329 148.231565 324.671247 156.272476 317.760571 156.300752 317.760571 186.057623 311.463002 186.057623 311.463002 239.177856 306.954545 239.177856 306.954545 276.880698 299 276.880698 299 288 329 288"></polyline>
+            <polyline id="Path-16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="299 110 299 148.231565 294.526956 156.272476 287.385923 156.300752 287.385923 186.057623 280.878436 186.057623 280.878436 239.177856 276.219697 239.177856 276.219697 276.880698 268 276.880698 268 288 299 288"></polyline>
+            <polyline id="Path-21" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="286 184 290.705533 184 290.705533 231 297 231"></polyline>
+            <path d="M297.5,231 L297.5,261" id="Path-22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M296,248 L296,275" id="Path-23" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M306,231.5 L316,231.5" id="Path-24" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M309.5,155 L309.5,184" id="Path-25" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M305,155.5 L300,155.5" id="Path-26" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M141.5,236 L141.5,212" id="Path-27" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M188,236 L188,212" id="Path-28" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="" id="Path-29" stroke="#979797"></path>
+            <path d="M47,289.5 L352,289.5" id="Path-30" stroke="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
