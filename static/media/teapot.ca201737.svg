@@ -1,0 +1,89 @@
+
+<svg width="247px" height="117px" viewBox="0 0 247 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Teapot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-58.000000, -137.000000)" stroke="#FFFFFF">
+            <path d="M130.5,174.685159 L153.053679,200.180623" id="Path" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M130.5,175.25324 L146.139205,164.341409" id="Path-2" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M152.823242,200.685159 L130.024414,231.577157" id="Path-3" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M130.5,231.685159 L154.5,251.685159" id="Path-4" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M154.5,252.185159 L189.5,252.185159" id="Path-5" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M146.5,164.685159 L157.5,143.685159" id="Path-6" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M157.5,144.000784 L183.251874,141.091409" id="Path-7" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M214,175 L236.553679,200.495464" id="Path" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(225.500000, 188.000000) scale(-1, 1) translate(-225.500000, -188.000000) "></path>
+            <path d="M221,175 L236.639205,164.647837" id="Path-2" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(229.000000, 169.500000) scale(-1, 1) translate(-229.000000, -169.500000) "></path>
+            <path d="M236.323242,201 L213.524414,231.891997" id="Path-3" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(225.000000, 216.500000) scale(-1, 1) translate(-225.000000, -216.500000) "></path>
+            <path d="M215.517691,231.731719 L236.576923,252" id="Path-4" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(226.000000, 241.500000) scale(-1, 1) translate(-226.000000, -241.500000) "></path>
+            <path d="M185,252.5 L215,252.5" id="Path-5" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(200.000000, 252.500000) scale(-1, 1) translate(-200.000000, -252.500000) "></path>
+            <path d="M210.489905,164.804688 L222,145" id="Path-6" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(216.000000, 155.000000) scale(-1, 1) translate(-216.000000, -155.000000) "></path>
+            <path d="M184,144 L210,141" id="Path-7" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(197.000000, 142.500000) scale(-1, 1) translate(-197.000000, -142.500000) "></path>
+            <polyline id="Path-9" fill-opacity="0.138986014" fill="#FFFFFF" points="157.5 144.685159 183.579365 147.685159 210.5 144.685159"></polyline>
+            <polyline id="Path-8" fill-opacity="0.138986014" fill="#FFFFFF" points="146.5 165.077918 183.608487 169.685159 221.5 164.685159"></polyline>
+            <polyline id="Path-10" fill-opacity="0.138986014" fill="#FFFFFF" points="130.5 174.685159 157.444546 180.129805 183.937959 181.685159 210.491622 180.129805 236.5 175.105987"></polyline>
+            <path d="M152.5,201.027933 L214.5,200.842386" id="Path-11" stroke-width="2" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <polyline id="Path-12" fill-opacity="0.138986014" fill="#FFFFFF" points="130.5 231.685159 157.444546 234.685159 183.547076 234.685159 210.491622 234.685159 236.5 232.156094"></polyline>
+            <path d="M157.5,179.685159 L165.5,166.685159" id="Path-14" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M209.5,179.685159 L205.5,166.685159" id="Path-16" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M157.5,179.685159 L168.5,200.685159" id="Path-17" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M210.5,179.685159 L199.5,200.685159" id="Path-18" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M165.5,166.685159 L170.5,145.685159" id="Path-13" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M205.5,166.685159 L199.5,145.685159" id="Path-15" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M168.5,200.685159 L157.5,234.685159" id="Path-19" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M199.5,200.685159 L209.5,234.685159" id="Path-20" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M157.5,234.685159 L168.739052,252.124574" id="Path-21" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <path d="M209.324234,234.685159 L200.733325,252.124574" id="Path-22" fill-opacity="0.138986014" fill="#FFFFFF"></path>
+            <polyline id="Path-23" fill-opacity="0.138986014" fill="#FFFFFF" points="183.778907 147.685159 183.880033 171.457497 183.619967 252.685159"></polyline>
+            <polyline id="Path-24" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="228.740265 183.685159 240.232211 190.334292 245.5 200.434301 240.232211 208.600852 223.5 213.685159"></polyline>
+            <polyline id="Path-25" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="228.360699 183.993088 228.360699 183.685159 238.454821 192.563829 241.5 200.475891 239.607215 205.91396 223.5 213.685159"></polyline>
+            <path d="M239,192.185159 L240.399823,190.208831" id="Path-26" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M241.5,200.300394 L245.5,200.069925" id="Path-27" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M239.93044,205.235395 L239.93044,208.035395" id="Path-28" fill-opacity="0.138986014" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-29" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="221.510095 164.804688 229.180398 146.185159 234.5 142.5 237.5 142.5 243.5 138.112015 261.983713 138.112015"></polyline>
+            <polyline id="Path-29" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(269.236809, 151.346336) scale(-1, 1) translate(-269.236809, -151.346336) " points="249 164.692673 256.670302 146.073145 261.989905 142.387985 264.989905 142.387985 270.989905 138 289.473617 138"></polyline>
+            <polyline id="Path-32" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="289.473617 164.647837 304.30767 173.185159 276.559142 196.685159 273.793573 208.035395 293.071121 225.589019 289.473617 233.185159 280.412697 243.404867 276.559142 252.5"></polyline>
+            <polyline id="Path-30" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="277.036357 252.685159 237.5 252.685159 232.5 243.404867 229.180398 239.750753"></polyline>
+            <path d="M226,219.197425 L231.5,211.5" id="Path-31" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-33" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="234.5 208.035395 231.5 196.685159 223.5 190.185159"></polyline>
+            <polyline id="Path-34" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="289.050621 187.747732 304.30767 192.185159 284.336083 200.685159 280.683811 213.685159"></polyline>
+            <path d="M237,142.5 L273.793573,142.5" id="Path-35" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-36" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="221.510095 164.647837 239 166.685159 273.793573 166.685159 289.050621 164.647837"></polyline>
+            <path d="M231.5,196.685159 L239.93044,198.685159" id="Path-37" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-38" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="245.5 200 269.236809 200 277.036357 196.685159"></polyline>
+            <path d="M240.399823,208.573918 L273.793573,208.035395" id="Path-39" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-40" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="293.071121 225.589019 273.793573 231.685159 236.475586 231.891997"></polyline>
+            <path d="M234.5,246.217956 L279.316838,246.217956" id="Path-41" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-42" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="250.582056 138.112015 245.5 142.5 239 166.685159 240.770514 191.196995"></polyline>
+            <path d="M240.399823,208.573918 L237.5,231.891997" id="Path-44" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M237.75,233.185159 L243.791028,246.217956" id="Path-45" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M243.791028,246.217956 L245.5,252.5" id="Path-46" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-47" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="256.908419 138.112015 255.280358 142.5 255.280358 165.666498 255.280358 252.5"></polyline>
+            <polyline id="Path-48" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="261.983713 138.112015 264.773353 142.5 273.793573 167.185159 269.236809 200"></polyline>
+            <path d="M269.236809,200.185159 L269.236809,208.035395" id="Path-43" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M269.236809,208.573918 L273.793573,231.891997" id="Path-49" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-50" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="273.793573 231.891997 269.236809 246.217956 267.888643 252.124574"></polyline>
+            <path d="M289.050621,164.804688 L277.036357,196.685159" id="Path-51" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-52" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="285.390454 190.208831 293.071121 193.804677 283.043489 200"></polyline>
+            <path d="M283.043489,200 L280.683811,213.685159" id="Path-53" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M293.071121,193.804677 L303.144995,192.234899" id="Path-54" stroke-opacity="0.552857299" fill-opacity="0.23675153" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M83.962418,156.185159 L78.0473022,175" id="Path-55" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <polyline id="Path-56" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="83.962418 156.185159 94.6923065 147.685159 99.7888493 140.685159 122.982438 140.685159"></polyline>
+            <polyline id="Path-57" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="122.982438 141 141.77684 141 146.5 147.685159 152 151.458351"></polyline>
+            <polyline id="Path-58" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="78.0473022 174.685159 58.7223967 183.685159 78.0473022 196.685159 83.962418 211.5 68.2120853 231.577157 71.3424074 241.865859 103.472428 252.685159"></polyline>
+            <polyline id="Path-59" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="103.472428 252.685159 141.77684 252.685159 152 249.358978"></polyline>
+            <path d="M78.0473022,175.25324 L130.5,174.685159" id="Path-60" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <path d="M95.1772986,148.435159 L146.139205,148.435159" id="Path-61" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <polyline id="Path-62" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="83.962418 156.185159 105.708744 158.180641 137.491219 158.180641 152 154.185159"></polyline>
+            <polyline id="Path-63" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="58.7223967 183.685159 91.7566259 187.432891 141.423828 187.432891"></polyline>
+            <path d="M78.0473022,196.685159 L149.666133,196.685159" id="Path-64" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <polyline id="Path-65" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="83.962418 213.685159 113.856718 216.131158 142.5 216.131158"></polyline>
+            <polyline id="Path-66" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="69.5045681 231.685159 108.653536 234.685159 133.261413 234.685159"></polyline>
+            <polyline id="Path-67" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="72.7714951 241.685159 110.106211 243.404867 142.5 242.545013"></polyline>
+            <polyline id="Path-68" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="110.348324 141.091409 104.273651 148.435159 101.38299 158.180641 100.073112 174.685159 91.7566259 187.432891 100.073112 196.685159 101.052475 214.908159 95.1772986 231.685159 100.073112 241.685159 103.472428 252.685159"></polyline>
+            <path d="M120.658252,141 L117.981209,252.685159" id="Path-69" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <polyline id="Path-70" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8" points="130.024414 141.091409 137.491219 148.435159 140.100172 158.180641"></polyline>
+            <path d="M140.100172,158.180641 L141.423828,167.185159" id="Path-71" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <path d="M137.491219,196.685159 L142.5,190.185159" id="Path-72" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <path d="M137.491219,196.84258 L137.491219,216.131158" id="Path-73" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+            <path d="M137.491219,252.685159 L139.995609,243.404867" id="Path-74" stroke-opacity="0.622896635" fill-opacity="0.218149038" fill="#D8D8D8"></path>
+        </g>
+    </g>
+</svg>

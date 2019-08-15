@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a853e6e5e769b64454b14d54bd9c9138",
+    "revision": "7f263c6c3a2fd4f7a366be35be513a4c",
     "url": "/index.html"
   },
   {
-    "revision": "ce24526017d7ee6e5dbd",
-    "url": "/static/css/main.bfbeaf73.chunk.css"
+    "revision": "121c5e0bb7fa0598710a",
+    "url": "/static/css/main.68870308.chunk.css"
   },
   {
-    "revision": "a22e5c954a2cd6fb7dec",
-    "url": "/static/js/2.9f70378f.chunk.js"
+    "revision": "b9e94e5765908608f282",
+    "url": "/static/js/2.dae64622.chunk.js"
   },
   {
-    "revision": "ce24526017d7ee6e5dbd",
-    "url": "/static/js/main.0eaeb2af.chunk.js"
+    "revision": "121c5e0bb7fa0598710a",
+    "url": "/static/js/main.015cff65.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -22,10 +22,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7df01f817f7769b2787ceb483afefc82",
     "url": "/static/media/hamburger.7df01f81.svg"
-  },
-  {
-    "revision": "b2effe984cc345e13dc7fb3b89a42e6d",
-    "url": "/static/media/homescreen.b2effe98.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -44,15 +40,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stela.eeb29f13.svg"
   },
   {
-    "revision": "75c810615581796c348b9460cf71945f",
-    "url": "/static/media/style.75c81061.svg"
+    "revision": "af3a318369044d56818b9460099fc48f",
+    "url": "/static/media/style.af3a3183.svg"
   },
   {
     "revision": "ecf47a57852b6588487de3d6308794d1",
     "url": "/static/media/sudoku.ecf47a57.svg"
   },
   {
-    "revision": "4388b0f581b5a7958bd97a420a3b2016",
-    "url": "/static/media/teapot.4388b0f5.svg"
+    "revision": "ca2017379141cc770042d1edad8448ee",
+    "url": "/static/media/teapot.ca201737.svg"
+  },
+  {
+    "revision": "5d290b576a7ea918b97a7e065985ebac",
+    "url": "/static/media/teapot1.5d290b57.png"
+  },
+  {
+    "revision": "1db0c6662b69b2f1fb6c54410a13c404",
+    "url": "/static/media/teapot2.1db0c666.png"
   }
 ]);
