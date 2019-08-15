@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f263c6c3a2fd4f7a366be35be513a4c",
+    "revision": "9bca3dfe05741457a901a43818c67d0a",
     "url": "/index.html"
   },
   {
-    "revision": "121c5e0bb7fa0598710a",
+    "revision": "bcb1b50f3eac07e07456",
     "url": "/static/css/main.68870308.chunk.css"
   },
   {
-    "revision": "b9e94e5765908608f282",
-    "url": "/static/js/2.dae64622.chunk.js"
+    "revision": "b14a1c5d457133813fda",
+    "url": "/static/js/2.75f45b5d.chunk.js"
   },
   {
-    "revision": "121c5e0bb7fa0598710a",
-    "url": "/static/js/main.015cff65.chunk.js"
+    "revision": "bcb1b50f3eac07e07456",
+    "url": "/static/js/main.77a7f318.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1db0c6662b69b2f1fb6c54410a13c404",
     "url": "/static/media/teapot2.1db0c666.png"
+  },
+  {
+    "revision": "e898d18d09d345bb4f95460904fbb232",
+    "url": "/static/media/teapot3.e898d18d.mp4"
   }
 ]);
