@@ -3,8 +3,8 @@
     <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-266.000000, -273.000000)">
             <circle id="Oval" fill="#FFFFFF" cx="290" cy="297" r="24"></circle>
-            <polygon id="Path-40" stroke="#AAAAAA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="280 290 280 304.501562 300 304.501562 300 290"></polygon>
-            <polyline id="Path-41" stroke="#AAAAAA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="280 290 290 297.250781 300 290"></polyline>
+            <polygon id="Path-40" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="280 290 280 304.501562 300 304.501562 300 290"></polygon>
+            <polyline id="Path-41" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="280 290 290 297.250781 300 290"></polyline>
         </g>
     </g>
 </svg>

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d515b0dc5a9cf89a6ee821e90c7e11f9",
+    "revision": "ad05f719e4b8af468fced4aeec16f36e",
     "url": "/index.html"
   },
   {
-    "revision": "ec9ca983aaa9b61c174d",
-    "url": "/static/css/main.2b8d18ec.chunk.css"
+    "revision": "6871af9c68733e8c84a1",
+    "url": "/static/css/main.b8fcbbf0.chunk.css"
   },
   {
-    "revision": "89910dc7d3edb3eb675f",
-    "url": "/static/js/2.30448f6e.chunk.js"
+    "revision": "11ff547206b3130e7f3f",
+    "url": "/static/js/2.426dd47d.chunk.js"
   },
   {
-    "revision": "ec9ca983aaa9b61c174d",
-    "url": "/static/js/main.2cbe230d.chunk.js"
+    "revision": "6871af9c68733e8c84a1",
+    "url": "/static/js/main.e2d4e170.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/email-grey.0568b465.svg"
   },
   {
-    "revision": "f89671d6f05a1f0de9b27d25d7ce31a7",
-    "url": "/static/media/email-white.f89671d6.svg"
+    "revision": "c1cf2d14f7ad45e1d4ae8e259ac0be36",
+    "url": "/static/media/email-white.c1cf2d14.svg"
   },
   {
     "revision": "ada3392ad06c29cc59253d609d45ecb6",
     "url": "/static/media/github-grey.ada3392a.svg"
   },
   {
-    "revision": "1e607d5645c714e84c651f530423a90e",
-    "url": "/static/media/github-white.1e607d56.svg"
+    "revision": "3cf822772d5186fe51622d3e90577eb4",
+    "url": "/static/media/github-white.3cf82277.svg"
   },
   {
     "revision": "7df01f817f7769b2787ceb483afefc82",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin-grey.26b87901.svg"
   },
   {
-    "revision": "0a5822721881315e92e1f95b6d95ec94",
-    "url": "/static/media/linkedin-white.0a582272.svg"
+    "revision": "58712920f1eaa6dc986fd3733536f2d4",
+    "url": "/static/media/linkedin-white.58712920.svg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
