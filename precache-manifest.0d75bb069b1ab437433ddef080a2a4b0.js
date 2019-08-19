@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85c67be725839bc5d960a498572dd77f",
+    "revision": "d3729923c47ba00566acf5f7e2114891",
     "url": "/index.html"
   },
   {
-    "revision": "eb1a52746df1dab93c38",
-    "url": "/static/css/main.3c49f6d8.chunk.css"
+    "revision": "d5d7c5a15f289e093fa4",
+    "url": "/static/css/main.5b3aeb52.chunk.css"
   },
   {
-    "revision": "0423148c44a6e97ebb19",
-    "url": "/static/js/2.a7c54a21.chunk.js"
+    "revision": "a3c572dfb33b44ea41e2",
+    "url": "/static/js/2.dfb55d0a.chunk.js"
   },
   {
-    "revision": "eb1a52746df1dab93c38",
-    "url": "/static/js/main.92820d95.chunk.js"
+    "revision": "d5d7c5a15f289e093fa4",
+    "url": "/static/js/main.b48ee49e.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -36,8 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github-white.3cf82277.svg"
   },
   {
-    "revision": "7df01f817f7769b2787ceb483afefc82",
-    "url": "/static/media/hamburger.7df01f81.svg"
+    "revision": "e11c75b0fb5afcbbf9000db0a3274834",
+    "url": "/static/media/hamburger-white.e11c75b0.svg"
+  },
+  {
+    "revision": "bccf588f56b4c60582fba54fbe1dfe85",
+    "url": "/static/media/hamburger.bccf588f.svg"
   },
   {
     "revision": "26b87901940b27816e930119947e8bec",
