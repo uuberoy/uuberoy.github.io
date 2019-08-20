@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "701dd6c59b0786bc6d684d1fbec1bede",
+    "revision": "7e156e30265bd9c28808fd179dfb7f6d",
     "url": "/index.html"
   },
   {
-    "revision": "193c4e5aeb2a92440a8c",
-    "url": "/static/css/main.f1ad7e68.chunk.css"
+    "revision": "7f73354feb44e25ad665",
+    "url": "/static/css/main.a69c7128.chunk.css"
   },
   {
-    "revision": "43db218c60381fd0adf8",
-    "url": "/static/js/2.7ef52da0.chunk.js"
+    "revision": "8c6d99e341d72650fa24",
+    "url": "/static/js/2.a6772d86.chunk.js"
   },
   {
-    "revision": "193c4e5aeb2a92440a8c",
-    "url": "/static/js/main.a2903dc7.chunk.js"
+    "revision": "7f73354feb44e25ad665",
+    "url": "/static/js/main.6e3f04db.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -85,35 +85,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "78e540a81adef4736e3ee09a226e9734",
-    "url": "/static/media/rietvelt.78e540a8.svg"
+    "url": "/static/media/rietveld.78e540a8.svg"
   },
   {
     "revision": "f11d8f681fb050355ba1c9892a87062d",
-    "url": "/static/media/rietvelt1.f11d8f68.png"
+    "url": "/static/media/rietveld1.f11d8f68.png"
   },
   {
     "revision": "0c84631a625ca77433aa2587e1240c2b",
-    "url": "/static/media/rietvelt2.0c84631a.png"
+    "url": "/static/media/rietveld2.0c84631a.png"
   },
   {
     "revision": "de2ee5b93ca7bd8f3111b9025216761d",
-    "url": "/static/media/rietvelt3.de2ee5b9.png"
+    "url": "/static/media/rietveld3.de2ee5b9.png"
   },
   {
     "revision": "05baa00c333f4bbea1b21f73e14923f4",
-    "url": "/static/media/rietvelt4.05baa00c.png"
+    "url": "/static/media/rietveld4.05baa00c.png"
   },
   {
     "revision": "dd67cab63b29b319f5d5a56ad3461654",
-    "url": "/static/media/rietvelt5.dd67cab6.png"
+    "url": "/static/media/rietveld5.dd67cab6.png"
   },
   {
     "revision": "6a1fe278a7b8a53bd1e6432c90964bec",
-    "url": "/static/media/rietvelt6.6a1fe278.png"
+    "url": "/static/media/rietveld6.6a1fe278.png"
   },
   {
     "revision": "9a6e9dce04853910585aa8f12560d333",
-    "url": "/static/media/rietvelt7.9a6e9dce.png"
+    "url": "/static/media/rietveld7.9a6e9dce.png"
+  },
+  {
+    "revision": "7b36d90fa17f0819e4342514c6fe6324",
+    "url": "/static/media/rietveld8.7b36d90f.png"
   },
   {
     "revision": "1d3f7ed27ece6cdb7aef41866f777e4e",
