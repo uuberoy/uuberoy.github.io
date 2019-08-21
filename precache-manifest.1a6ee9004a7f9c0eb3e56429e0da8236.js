@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8707a1137f5d1b7e7df7a94af5dc71d0",
+    "revision": "c76a5aac1924e76ef5cb39a6de76c961",
     "url": "/index.html"
   },
   {
-    "revision": "f41b8619664a873d8ebc",
-    "url": "/static/css/main.90687de2.chunk.css"
+    "revision": "4bda6f7fb49f65b2f6fb",
+    "url": "/static/css/main.c279d58c.chunk.css"
   },
   {
-    "revision": "de3e3453732380e310ed",
-    "url": "/static/js/2.7d7bab30.chunk.js"
+    "revision": "81f10268240f04c964a5",
+    "url": "/static/js/2.e7c38c62.chunk.js"
   },
   {
-    "revision": "f41b8619664a873d8ebc",
-    "url": "/static/js/main.c26a4dd3.chunk.js"
+    "revision": "4bda6f7fb49f65b2f6fb",
+    "url": "/static/js/main.299d9781.chunk.js"
   },
   {
     "revision": "e676c0768ba9136fc741",
@@ -152,8 +152,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/stela.eeb29f13.svg"
   },
   {
-    "revision": "131981d2e46cb0439b3f030f264de57b",
-    "url": "/static/media/stela1.131981d2.gif"
+    "revision": "e499b3c6feb660cdc5169a3ac41833be",
+    "url": "/static/media/stela1.e499b3c6.gif"
+  },
+  {
+    "revision": "6a732ab62f8e1a9aadb7cc92cc8891ef",
+    "url": "/static/media/stela2.6a732ab6.gif"
   },
   {
     "revision": "af3a318369044d56818b9460099fc48f",
