@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4d311256.chunk.css",
-    "main.js": "/static/js/main.13530a9c.chunk.js",
-    "main.js.map": "/static/js/main.13530a9c.chunk.js.map",
+    "main.js": "/static/js/main.cb34bf5d.chunk.js",
+    "main.js.map": "/static/js/main.cb34bf5d.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.daaf4d4d.js",
     "runtime~main.js.map": "/static/js/runtime~main.daaf4d4d.js.map",
     "static/js/2.289d1ec3.chunk.js": "/static/js/2.289d1ec3.chunk.js",
     "static/js/2.289d1ec3.chunk.js.map": "/static/js/2.289d1ec3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a2230c69be85d9ccbe89e4eb03b8b815.js": "/precache-manifest.a2230c69be85d9ccbe89e4eb03b8b815.js",
+    "precache-manifest.0e34d8f05016d05fca5b4441653d1551.js": "/precache-manifest.0e34d8f05016d05fca5b4441653d1551.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4d311256.chunk.css.map": "/static/css/main.4d311256.chunk.css.map",
     "static/media/email-black.svg": "/static/media/email-black.86ab351d.svg",
@@ -58,6 +58,6 @@
     "static/media/teapot1.png": "/static/media/teapot1.5d290b57.png",
     "static/media/teapot2.png": "/static/media/teapot2.1db0c666.png",
     "static/media/teapot3.gif": "/static/media/teapot3.883e7274.gif",
-    "static/media/urvashi.jpg": "/static/media/urvashi.ed907aab.jpg"
+    "static/media/urvashi.jpg": "/static/media/urvashi.59e89304.jpg"
   }
 }
