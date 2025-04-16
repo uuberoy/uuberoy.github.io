@@ -16,7 +16,7 @@
     setTimeout(() => {
       const element = document.getElementById(linkId);
       if (element) {
-        const offset = 100; // Add 100px offset from the top
+        const offset = 75; // Add 100px offset from the top
         const elementPosition = element.getBoundingClientRect().top;
         const offsetPosition = elementPosition + window.pageYOffset - offset;
         window.scrollTo({
@@ -62,7 +62,8 @@
 
         <!-- Thumbnail Carousel -->
         {#if !project.expanded}
-          <div class="mt-4 flex gap-4 overflow-x-auto pb-4 -mx-2 px-2 scrollbar-hide">
+          <div class="mt-4 flex gap-4 overflow-x-auto pb-4 -mx-2 px-2 relative scrollbar-hide">
+            <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent pointer-events-none"></div>
             {#each project.links as link}
               <button
                 class="flex-shrink-0 w-24 overflow-hidden hover:opacity-90 transition-opacity focus:outline-none text-left cursor-pointer flex flex-col items-start"
@@ -119,6 +120,11 @@
 </main>
 
 <style>
+  :global(html) {
+    scroll-behavior: smooth;
+    --scroll-duration: 1500ms;
+  }
+
   :global(body) {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
