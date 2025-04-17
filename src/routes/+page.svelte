@@ -1,8 +1,25 @@
 <script lang="ts">
   import { projects as initialProjects, siteContent } from '$lib/data';
   import { format, parseISO } from 'date-fns';
+  import { onMount } from 'svelte';
 
   let projects = initialProjects;
+  let carousels: { [key: string]: HTMLElement } = {};
+
+  onMount(() => {
+    // Add scroll event listeners to all carousels
+    Object.values(carousels).forEach(carousel => {
+      if (carousel) {
+        carousel.addEventListener('scroll', () => {
+          const hasMore = carousel.scrollWidth > carousel.clientWidth + carousel.scrollLeft;
+          carousel.classList.toggle('has-more', hasMore);
+        });
+        // Initial check
+        const hasMore = carousel.scrollWidth > carousel.clientWidth + carousel.scrollLeft;
+        carousel.classList.toggle('has-more', hasMore);
+      }
+    });
+  });
 
   function toggle(index: number) {
     projects = projects.map((p, i) =>
@@ -62,22 +79,25 @@
 
         <!-- Thumbnail Carousel -->
         {#if !project.expanded}
-          <div class="mt-4 flex gap-4 overflow-x-auto pb-4 -mx-2 px-2 relative scrollbar-hide">
-            <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent pointer-events-none"></div>
+          <div 
+            class="mt-4 flex gap-4 overflow-x-auto pb-4 -mx-2 px-2 relative scrollbar-hide"
+            bind:this={carousels[project.title]}
+          >
+            <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent pointer-events-none opacity-0 transition-opacity duration-300 has-more:opacity-100"></div>
             {#each project.links as link}
               <button
-                class="flex-shrink-0 w-24 overflow-hidden hover:opacity-90 transition-opacity focus:outline-none text-left cursor-pointer flex flex-col items-start"
+                class="flex-shrink-0 w-18 sm:w-24 overflow-hidden hover:opacity-90 transition-opacity focus:outline-none text-left cursor-pointer flex flex-col items-start"
                 on:click={() => toggleAndScroll(index, link.id)}
               >
-                <div class="w-full h-16 flex items-start">
+                <div class="w-full h-14 sm:h-16 flex items-start">
                   <img 
                     src={link.thumbnail} 
                     alt={link.title} 
-                    class="w-full h-16 object-cover"
+                    class="w-full h-14 sm:h-16 object-cover"
                   />
                 </div>
                 <div class="w-full mt-1">
-                  <p class="text-[10px] text-gray-600 line-clamp-2 font-light">{link.title}</p>
+                  <p class="text-[10px] sm:text-[10px] text-gray-600 line-clamp-2 font-light">{link.title}</p>
                 </div>
               </button>
             {/each}
@@ -137,5 +157,9 @@
   
   :global(.scrollbar-hide::-webkit-scrollbar) {
     display: none;  /* Chrome, Safari and Opera */
+  }
+
+  :global(.has-more) {
+    /* This class is used to show/hide the gradient */
   }
 </style>
