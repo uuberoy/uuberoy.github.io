@@ -17,7 +17,17 @@ const config = {
 			fallback: 'index.html',
 			precompress: false,
 			strict: true
-		})
+		}),
+		prerender: {
+			handleHttpError: ({ path, referrer, message }) => {
+				// ignore missing links
+				if (message.includes('Not found')) {
+					return;
+				}
+				// otherwise, fail the build
+				throw new Error(`${path} ${message}`);
+			}
+		}
 	}
 };
 
