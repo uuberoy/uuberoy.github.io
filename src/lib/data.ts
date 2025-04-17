@@ -42,7 +42,7 @@ export const projects: Project[] = [
       {
         id: 'nyc-pops-3',
         title: 'Open Data Week 2024 Talk',
-        description: 'I spoke at the NYC School of Data\'s Open Data Week conference about the process of finding, reporting and visualizing this story.',
+        description: 'I presented the process of finding, reporting and visualizing this story at the NYC School of Data\'s Open Data Week conference in 2024.',
         thumbnail: 'https://img.youtube.com/vi/NouPKeB_pUA/0.jpg',
         url: 'https://youtu.be/NouPKeB_pUA',
         publicationDate: '2024-03-23',
