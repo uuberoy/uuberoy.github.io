@@ -129,7 +129,7 @@ export const projects: Project[] = [
   },
   {
     title: 'Federal Workers Sourcing Initiative',
-    subhead: 'There have been widespread layoffs in the federal government under the second Trump administration. As part of the Times\'s effort to cover this ongoingstory, I led a callout-driven effort to collect experiences from federal workers to create a shared sourcepool for the newsroom.',
+    subhead: 'There have been widespread layoffs in the federal government under the second Trump administration. As part of the Times\'s effort to cover this ongoing story, I led a callout-driven effort to collect experiences from federal workers to create a shared sourcepool for the newsroom.',
     expanded: false,
     links: [
       {
