@@ -52,7 +52,7 @@ export const projects: Project[] = [
   },
   {
     title: 'International Election Results',
-    subhead: 'The New York Times has recently expanded its election coverage to include a broader swathe of international elections. I have contributed to coverage of elections in Mexico, India, the E.U., the U.K., France and Germany. I led the development of a scalable data pipeline to scrape and process election results from various providers.',
+    subhead: 'The New York Times has recently expanded its election coverage to include a broader swath of international elections. I have contributed to coverage of elections in Mexico, India, the E.U., the U.K., France and Germany. I led the development of a scalable data pipeline to scrape and process election results from various providers.',
     expanded: false,
     links: [
       {
