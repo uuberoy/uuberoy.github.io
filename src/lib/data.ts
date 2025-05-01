@@ -56,6 +56,15 @@ export const projects: Project[] = [
     expanded: false,
     links: [
       {
+        id: 'canada-elections-1',
+        title: '2025 Canada Federal Election Live Results: Liberals Win',
+        description: 'Canada’s Liberal Party won a fourth consecutive term. The Liberals will form a minority government, having missed out on a majority by just a handful of seats.',
+        url: 'https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-square640-v4.png?quality=100&auto=webp',
+        source: 'The New York Times',
+        publicationDate: '2025-04-28'
+      },
+      {
         id: 'german-elections-1',
         title: 'Germany Election Maps: How Conservatives Regained Power',
         description: 'Maps show how every district in Germany voted. The conservative Christian Democrats have won the most seats while the far-right AfD placed second.',
