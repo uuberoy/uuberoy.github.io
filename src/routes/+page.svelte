@@ -70,27 +70,27 @@
         {#if project.links.length === 1}
           <!-- Single link project - show link's title/description as header -->
           <div class="py-2">
-            <div class="flex justify-between items-center">
+            <div class="flex flex-col sm:flex-row sm:justify-between sm:items-start">
               <a 
                 href={project.links[0].url}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="hover:text-gray-600 transition-colors flex-1 mr-4"
+                class="hover:text-gray-600 transition-colors flex-1 sm:mr-4"
               >
                 <h3 class="text-xl font-light text-gray-800">{project.links[0].title}</h3>
               </a>
-              <span class="text-sm text-gray-500 flex-shrink-0">{formatDateRange(project.links[0].publicationDate)}</span>
+              <span class="text-sm text-gray-500 flex-shrink-0 mt-2 sm:mt-0">{formatDateRange(project.links[0].publicationDate)}</span>
             </div>
             
             <!-- Inline thumbnail and subhead -->
-            <div class="mt-4 flex gap-4 items-start">
+            <div class="mt-4 flex flex-col sm:flex-row gap-4 sm:items-start">
               <a 
                 href={project.links[0].url}
                 target="_blank"
                 rel="noopener noreferrer"
                 class="block hover:opacity-90 transition-opacity flex-shrink-0"
               >
-                <div class="w-32 h-24">
+                <div class="w-full sm:w-32 h-48 sm:h-24">
                   <img 
                     src={project.links[0].thumbnail} 
                     alt={project.links[0].title} 
@@ -113,9 +113,9 @@
             tabindex="0"
           >
             <div class="flex-1">
-              <h3 class="text-xl font-light group-hover:text-gray-600 transition-colors flex justify-between items-center">
+              <h3 class="text-xl font-light group-hover:text-gray-600 transition-colors flex flex-col sm:flex-row sm:justify-between sm:items-center">
                 {project.title}
-                <span class="text-sm text-gray-500 ml-4">{formatDateRange(project.dateRange)}</span>
+                <span class="text-sm text-gray-500 mt-2 sm:mt-0 sm:ml-4">{formatDateRange(project.dateRange)}</span>
               </h3>
               <p class="text-gray-600 mt-1">
                 {project.subhead}
