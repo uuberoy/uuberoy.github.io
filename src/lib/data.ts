@@ -13,13 +13,49 @@ export type Project = {
   subhead: string;
   expanded: boolean;
   links: ProjectLink[];
+  dateRange: string;
 };
 
 export const projects: Project[] = [
   {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-19',
+    links: [
+      {
+        id: 'broker-fee-1',
+        title: 'Scams and a Rent Spike Follow New York City’s New Broker Fee Law',
+        description: 'The law mostly shifts fees from tenants to landlords. But since it took effect, some landlords have raised rents, and tenants say some brokers still try to make them pay fees.',
+        url: 'https://www.nytimes.com/2025/07/19/nyregion/nyc-broker-fee-fare-act.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/07/19/multimedia/19met-broker-fees-sub-pjkh/19met-broker-fees-sub-pjkh-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-19',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-16',
+    links: [
+      {
+        id: 'mayoral-campaign-1',
+        title: 'Adams Eclipses Mamdani in Recent Fund-Raising, as Cuomo Lags Behind',
+        description: 'Mayor Eric Adams reported raising $1.5 million over the last month, but his inability to qualify for matching funds may hamper his re-election bid.',
+        url: 'https://www.nytimes.com/2025/07/16/nyregion/mamdani-adams-donors-money.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/07/16/multimedia/16met-mayor-money-01-hcpj/16met-mayor-money-01-hcpj-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-16',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
     title: 'Investigating New York City\'s Privately Owned Public Spaces',
     subhead: 'I visited more than 100 of the city\'s "privately owned public spaces" (POPS). There are more than 600 of these spaces in the city, and they exist because of a 1961 zoning law that lets developers trade public space in exchange for bonus floor area to build with. I found that developers have traded ~600 of these spaces for 20 million sq. ft. of bonus floor area worth ~$10 billion. But half of the buildings with these spaces were found to be violating the agreement.',
     expanded: false,
+    dateRange: '2023-07-21',
     links: [
       {
         id: 'nyc-pops-1',
@@ -54,6 +90,7 @@ export const projects: Project[] = [
     title: 'International Election Results',
     subhead: 'The New York Times has recently expanded its election coverage to include a broader swath of international elections. I have contributed to coverage of elections in Mexico, India, the E.U., the U.K., France and Germany. I led the development of a scalable data pipeline to scrape and process election results from various providers.',
     expanded: false,
+    dateRange: '2024-present',
     links: [
       {
         id: 'canada-elections-1',
@@ -112,9 +149,27 @@ export const projects: Project[] = [
     ]
   },
   {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-03-10',
+    links: [
+      {
+        id: 'federal-workers-sourcing-1',
+        title: 'Federal Workers Sourcing Initiative',
+        description: 'There have been widespread layoffs in the federal government under the second Trump administration. As part of the Times\'s effort to cover this ongoing story, I led a callout-driven effort to collect experiences from federal workers to create a shared sourcepool for the newsroom.',
+        thumbnail: 'https://static01.nyt.com/images/2025/03/10/multimedia/federal-workers-callout-promo/federal-workers-callout-promo-articleLarge.png',
+        url: 'https://www.nytimes.com/2025/03/11/us/federal-workers-agencies-trump.html',
+        publicationDate: '2025-03-10',
+        source: 'The New York Times'
+      },
+    ]
+  },
+  {
     title: 'U.S. Election Results',
     subhead: 'I have contributed to the Times\'s results coverage for the 2022 Midterm Elections and the 2024 Presidential Election.',
     expanded: false,
+    dateRange: '2022-present',
     links: [
       {
         id: 'us-elections-1',
@@ -137,25 +192,10 @@ export const projects: Project[] = [
     ]
   },
   {
-    title: 'Federal Workers Sourcing Initiative',
-    subhead: 'There have been widespread layoffs in the federal government under the second Trump administration. As part of the Times\'s effort to cover this ongoing story, I led a callout-driven effort to collect experiences from federal workers to create a shared sourcepool for the newsroom.',
-    expanded: false,
-    links: [
-      {
-        id: 'federal-workers-sourcing-1',
-        title: 'Are You a Federal Worker? We Want To Hear From You.',
-        description: 'The Times would like to hear about your experience as a federal worker under the second Trump administration. We may reach out about your submission, but we will not publish any part of your response without contacting you first.',
-        thumbnail: 'https://static01.nyt.com/images/2025/03/10/multimedia/federal-workers-callout-promo/federal-workers-callout-promo-articleLarge.png',
-        url: 'https://www.nytimes.com/2025/03/11/us/federal-workers-agencies-trump.html',
-        publicationDate: '2024-11-05',
-        source: 'The New York Times'
-      },
-    ]
-  },
-  {
     title: 'Sports Coverage: Olympics and World Cups',
     subhead: 'I have contributed to sports coverage for the 2024 Paris Olympics and the 2022 and 2023 World Cups. This involved partnering with the Sports desk and the Upshot to create data pipelines to power our coverage.',
     expanded: false,
+    dateRange: '2022-2024',
     links: [
       {
         id: 'sports-coverage-1',
