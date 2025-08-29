@@ -18,40 +18,6 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: '',
-    subhead: '',
-    expanded: false,
-    dateRange: '2025-07-19',
-    links: [
-      {
-        id: 'broker-fee-1',
-        title: 'Scams and a Rent Spike Follow New York City’s New Broker Fee Law',
-        description: 'The law mostly shifts fees from tenants to landlords. But since it took effect, some landlords have raised rents, and tenants say some brokers still try to make them pay fees.',
-        url: 'https://www.nytimes.com/2025/07/19/nyregion/nyc-broker-fee-fare-act.html',
-        thumbnail: 'https://static01.nyt.com/images/2025/07/19/multimedia/19met-broker-fees-sub-pjkh/19met-broker-fees-sub-pjkh-square640.jpg?quality=100&auto=webp',
-        publicationDate: '2025-07-19',
-        source: 'The New York Times'
-      }
-    ]
-  },
-  {
-    title: '',
-    subhead: '',
-    expanded: false,
-    dateRange: '2025-07-16',
-    links: [
-      {
-        id: 'mayoral-campaign-1',
-        title: 'Adams Eclipses Mamdani in Recent Fund-Raising, as Cuomo Lags Behind',
-        description: 'Mayor Eric Adams reported raising $1.5 million over the last month, but his inability to qualify for matching funds may hamper his re-election bid.',
-        url: 'https://www.nytimes.com/2025/07/16/nyregion/mamdani-adams-donors-money.html',
-        thumbnail: 'https://static01.nyt.com/images/2025/07/16/multimedia/16met-mayor-money-01-hcpj/16met-mayor-money-01-hcpj-square640.jpg?quality=100&auto=webp',
-        publicationDate: '2025-07-16',
-        source: 'The New York Times'
-      }
-    ]
-  },
-  {
     title: 'Investigating New York City\'s Privately Owned Public Spaces',
     subhead: 'I visited more than 100 of the city\'s "privately owned public spaces" (POPS). There are more than 600 of these spaces in the city, and they exist because of a 1961 zoning law that lets developers trade public space in exchange for bonus floor area to build with. I found that developers have traded ~600 of these spaces for 20 million sq. ft. of bonus floor area worth ~$10 billion. But half of the buildings with these spaces were found to be violating the agreement.',
     expanded: false,
@@ -146,6 +112,91 @@ export const projects: Project[] = [
         publicationDate: '2024-06-03',
         source: 'The New York Times'
       },
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-19',
+    links: [
+      {
+        id: 'broker-fee-1',
+        title: 'Scams and a Rent Spike Follow New York City’s New Broker Fee Law',
+        description: 'The law mostly shifts fees from tenants to landlords. But since it took effect, some landlords have raised rents, and tenants say some brokers still try to make them pay fees.',
+        url: 'https://www.nytimes.com/2025/07/19/nyregion/nyc-broker-fee-fare-act.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/07/19/multimedia/19met-broker-fees-sub-pjkh/19met-broker-fees-sub-pjkh-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-19',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-08-11',
+    links: [
+      {
+        id: 'revel',
+        title: 'Revel Pulls Plug on Electric Vehicle Ride-Share Business in New York',
+        description: 'Once promising a glimpse at the possible future of transportation in New York City, Revel has since retreated to focus on building charging stations.',
+        url: 'https://www.nytimes.com/2025/08/11/nyregion/revel-nyc-shutdown.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/08/11/nyregion/met-REVEL/met-REVEL-square320.jpg?quality=100&auto=webp',
+        publicationDate: '2025-08-11',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-31',
+    links: [
+      {
+        id: 'castillo-arraignment',
+        title: 'Neighbors Recall a Grim Day as a Mother Is Charged With Killing Her Sons',
+        description: 'Stephanie Castillo was arraigned on Thursday on charges of killing her twin sons in 2020. Residents of the Bronx building where she lived remember the day the bodies were found.',
+        url: 'https://www.nytimes.com/2025/07/31/nyregion/stephanie-castillo-twins-murder.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/08/28/multimedia/28met-castillo-qlzc/28met-castillo-qlzc-square320.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-31',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-30',
+    links: [
+      {
+        id: 'subway-fares',
+        title: 'N.Y.C. Subway and Bus Fares Are Likely to Increase to $3 in January 2026',
+        description: 'The proposed 10-cent increase, the first since 2023, has been long in the works and would come after the mothballing of the MetroCard.',
+        url: 'https://www.nytimes.com/2025/07/30/nyregion/nyc-subway-bus-fares-2026-mta.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/07/30/multimedia/30Met-MTA-Fares-jwlg/30Met-MTA-Fares-jwlg-square320.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-30',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-07-16',
+    links: [
+      {
+        id: 'mayoral-campaign-1',
+        title: 'Adams Eclipses Mamdani in Recent Fund-Raising, as Cuomo Lags Behind',
+        description: 'Mayor Eric Adams reported raising $1.5 million over the last month, but his inability to qualify for matching funds may hamper his re-election bid.',
+        url: 'https://www.nytimes.com/2025/07/16/nyregion/mamdani-adams-donors-money.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/07/16/multimedia/16met-mayor-money-01-hcpj/16met-mayor-money-01-hcpj-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-07-16',
+        source: 'The New York Times'
+      }
     ]
   },
   {
