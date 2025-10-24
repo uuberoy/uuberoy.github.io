@@ -77,7 +77,7 @@
                 rel="noopener noreferrer"
                 class="hover:text-gray-600 transition-colors flex-1 sm:mr-4"
               >
-                <h3 class="text-xl font-light text-gray-800">{project.links[0].title}</h3>
+                <h3 class="text-lg font-light text-gray-800">{project.links[0].title}</h3>
               </a>
               <span class="text-sm text-gray-500 flex-shrink-0 mt-2 sm:mt-0">{formatDateRange(project.links[0].publicationDate)}</span>
             </div>
@@ -113,7 +113,7 @@
             tabindex="0"
           >
             <div class="flex-1">
-              <h3 class="text-xl font-light group-hover:text-gray-600 transition-colors flex flex-col sm:flex-row sm:justify-between sm:items-center">
+              <h3 class="text-lg font-light group-hover:text-gray-600 transition-colors flex flex-col sm:flex-row sm:justify-between sm:items-center">
                 {project.title}
                 <span class="text-sm text-gray-500 mt-2 sm:mt-0 sm:ml-4">{formatDateRange(project.dateRange)}</span>
               </h3>
@@ -157,7 +157,7 @@
                   <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-0">
                     <a
                       href={link.url}
-                      class="text-lg font-light text-gray-800 hover:text-gray-600 transition-colors underline hover:decoration-gray-600"
+                      class="text-base font-light text-gray-800 hover:text-gray-600 transition-colors underline hover:decoration-gray-600"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
