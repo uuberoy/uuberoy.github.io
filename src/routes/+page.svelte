@@ -70,7 +70,7 @@
         {#if project.links.length === 1}
           <!-- Single link project - show link's title/description as header -->
           <div class="py-2">
-            <div class="flex flex-col sm:flex-row sm:justify-between sm:items-start">
+            <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center">
               <a 
                 href={project.links[0].url}
                 target="_blank"
@@ -154,7 +154,7 @@
             <div class="mt-6 space-y-8">
               {#each project.links as link}
                 <div id={link.id} class="space-y-4">
-                  <div class="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-1 sm:gap-0">
+                  <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 sm:gap-0">
                     <a
                       href={link.url}
                       class="text-lg font-light text-gray-800 hover:text-gray-600 transition-colors underline hover:decoration-gray-600"
