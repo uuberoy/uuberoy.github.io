@@ -118,6 +118,23 @@ export const projects: Project[] = [
     title: '',
     subhead: '',
     expanded: false,
+    dateRange: '2025-10-19',
+    links: [
+      {
+        id: '432-park-avenue-1',
+        title: 'A Tower on Billionaires’ Row Is Full of Cracks. Who’s to Blame?',
+        description: 'A superstar team of architects and developers insisted on an all-white concrete facade. It could explain some of the building’s problems.',
+        url: 'https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/10/19/nyregion/19met-tower-trouble-alt-mbwv/00met-tower-trouble-alt-mbwv-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-10-19',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
     dateRange: '2025-07-19',
     links: [
       {
@@ -127,6 +144,23 @@ export const projects: Project[] = [
         url: 'https://www.nytimes.com/2025/07/19/nyregion/nyc-broker-fee-fare-act.html',
         thumbnail: 'https://static01.nyt.com/images/2025/07/19/multimedia/19met-broker-fees-sub-pjkh/19met-broker-fees-sub-pjkh-square640.jpg?quality=100&auto=webp',
         publicationDate: '2025-07-19',
+        source: 'The New York Times'
+      }
+    ]
+  },
+  {
+    title: '',
+    subhead: '',
+    expanded: false,
+    dateRange: '2025-08-30',
+    links: [
+      {
+        id: 'weed-1',
+        title: 'Why Legal Weed Might Not Be as Safe, or as Strong, as Advertised',
+        description: 'New York depends on private labs to test cannabis products’ potency and check for contaminants. Some industry experts say the tests are not reliable.',
+        url: 'https://www.nytimes.com/2025/08/30/nyregion/nyc-cannabis-testing-weed-safety.html',
+        thumbnail: 'https://static01.nyt.com/images/2025/08/27/multimedia/met-cannabis-testing-jwzk/met-cannabis-testing-jwzk-square640.jpg?quality=100&auto=webp',
+        publicationDate: '2025-08-30',
         source: 'The New York Times'
       }
     ]
