@@ -234,23 +234,6 @@ export const projects: Project[] = [
     ]
   },
   {
-    title: '',
-    subhead: '',
-    expanded: false,
-    dateRange: '2025-03-10',
-    links: [
-      {
-        id: 'federal-workers-sourcing-1',
-        title: 'Federal Workers Sourcing Initiative',
-        description: 'There have been widespread layoffs in the federal government under the second Trump administration. As part of the Times\'s effort to cover this ongoing story, I led a callout-driven effort to collect experiences from federal workers to create a shared sourcepool for the newsroom.',
-        thumbnail: 'https://static01.nyt.com/images/2025/03/10/multimedia/federal-workers-callout-promo/federal-workers-callout-promo-articleLarge.png',
-        url: 'https://www.nytimes.com/2025/03/11/us/federal-workers-agencies-trump.html',
-        publicationDate: '2025-03-10',
-        source: 'The New York Times'
-      },
-    ]
-  },
-  {
     title: 'U.S. Election Results',
     subhead: 'I have contributed to the Times\'s results coverage for the 2022 Midterm Elections and the 2024 Presidential Election.',
     expanded: false,
